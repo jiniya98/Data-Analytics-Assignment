@@ -1,3 +1,3 @@
 # Data-Analytics-Assignment
-uploading data analytics assignment
+Repository of Assignments of data and training
 1. Introduction to data
